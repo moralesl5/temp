@@ -12,7 +12,6 @@ https://modsecurity.comodo.com/
 https://securebox.comodo.com/
 https://valkyrie.comodo.com/
 https://wiki.comodo.com/
-https://securebox.comodo.com/
 https://icedragon.comodo.com/
 https://scripts.comodo.com/
 https://blog.comodo.com/
